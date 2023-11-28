@@ -1,4 +1,5 @@
 #include<avr/io.h>
+//PD2 ... PD7 + PB0
 int out;
 void MSB_display7(int num){
     switch(num){
@@ -33,8 +34,8 @@ void MSB_display7(int num){
             out =0x7B;
             break;  
     }
-    while(char *n){
-        
+    ṔO
+
     }
 
 }
